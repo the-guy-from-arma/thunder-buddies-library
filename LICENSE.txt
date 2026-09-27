@@ -1,0 +1,47 @@
+Thunder Buddies Attribution License 1.0
+Copyright (c) 2026 Thunder Buddies Studios
+
+This is a custom license, not the standard MIT license and not an
+OSI-approved license. It applies to original Thunder Buddies Studios
+material designated for this library release (the Work).
+
+1. Permission
+You may use, study, copy, modify, merge, publish, distribute, sublicense,
+and sell the Work and derivative works, including for commercial purposes,
+provided you comply with the following conditions.
+
+2. Required attribution
+Every distributed copy or substantial portion must retain this license
+and the copyright notice. Publicly distributed or publicly operated mods,
+projects, and derivative works incorporating a substantial portion of the
+Work must also display this credit:
+
+"Includes work by Thunder Buddies Studios."
+
+Place the credit in at least one reasonably accessible location: the
+public mod/project description, a distributed README, or a credits page
+accessible to users. Credit must not be hidden, obfuscated, or removed.
+Renaming your mod or adding credit to its title is not required.
+Private use does not require public publication or public credit.
+
+3. Modifications and endorsement
+Identify modified releases as modified so they are not mistaken for an
+official Thunder Buddies Studios release. Attribution does not imply
+endorsement. No trademark rights are granted beyond truthful attribution.
+Sublicensing must preserve these attribution and notice obligations for
+the covered Work. You need not publish your modifications' source code.
+
+4. Scope and previous terms
+For original Thunder Buddies Studios material expressly distributed in
+this library release, this license replaces earlier Thunder Buddies
+Studios restrictions on modification, redistribution, and commercial use.
+It does not revoke rights already granted under earlier licenses.
+Separately identified third-party material remains under its own license;
+this license does not relicense third-party material or remove its notices.
+
+5. Warranty and liability
+The Work is provided as is, without any express or implied warranty,
+including merchantability, fitness for a particular purpose, or
+noninfringement. To the extent permitted by applicable law, the authors
+and copyright holders are not liable for claims, damages, or other
+liability arising from the Work or its use.

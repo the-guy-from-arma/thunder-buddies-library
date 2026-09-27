@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+data/
+*.zip
+*.part
+*-private.json
+upload-results.json
+.railway/
